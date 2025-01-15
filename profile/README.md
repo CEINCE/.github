@@ -5,7 +5,7 @@ Nuestro objetivo principal es promover la actitud de aprendizaje permanente con 
 
 “Cuidar de uno, eso es amor… Cuidar de muchos eso es Enfermería”
 
-Accede a nuestro figma:
+Accede a:
 - [Figma](https://www.figma.com/design/QUfIU22Yig2uvdPrUC14F7/CEINCE?node-id=2-7&t=u9zs9nnxnOeAWhZj-0)
 - [Cotización](https://github.com/CEINCE/.github/wiki/Cotizacion20240115)
 
