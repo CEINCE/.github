@@ -7,6 +7,6 @@ Nuestro objetivo principal es promover la actitud de aprendizaje permanente con 
 
 Accede a:
 - [Figma](https://www.figma.com/design/QUfIU22Yig2uvdPrUC14F7/CEINCE?node-id=2-7&t=u9zs9nnxnOeAWhZj-0) (Propuesta de diseño)
-- [Cotización](https://github.com/CEINCE/.github/wiki/Cotizacion20240115)
+- [Cotización](https://github.com/CEINCE/.github/wiki/Cotizaci%C3%B3n)
 
 ![logoOk 1](https://github.com/user-attachments/assets/7ea7e408-2f10-4476-9619-2fc515e0d5c2)
